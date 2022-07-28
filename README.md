@@ -1,0 +1,2 @@
+# PowerShellTools
+windowsのpowershellを便利に使いたいときの自分用ツールです
